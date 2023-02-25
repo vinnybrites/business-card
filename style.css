@@ -21,6 +21,9 @@ main{
 
 .apresentacao__conteudo{
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 h1{
